@@ -27,8 +27,9 @@ code available in the master branch
 
 - tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today
 - reference: https://www.youtube.com/watch?v=6sRfXN6asyI&list=PLjBRL4AgNs3EXFdRPvj1cuLsOOIq8vfgm&index=4 7 episode AIML tutorial on YT
-- issue: 
-
+- issue: see issue section
+- [X] The bot will let the user ask for a list of major US exchanges and provide the list.
+- [X] The bot will let the user ask what a "stock split" is and provide a definition.
 
 
 
@@ -38,8 +39,7 @@ code available in the master branch
 ### future
 - [ ] build an interface app inside Eclipse
 - [ ] modify the AIML
-- [ ] The bot will let the user ask for a list of major US exchanges and provide the list.
-- [ ] The bot will let the user ask what a "stock split" is and provide a definition.
+
 
 
 

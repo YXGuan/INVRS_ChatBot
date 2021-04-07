@@ -9,6 +9,7 @@ code is available in the master branch
 - Language: Java,  [AIML 2.0](https://howtodoinjava.com/ai/java-aiml-chatbot-example/)
 - Estimate: 1 week to build Java-back-ended bot, Another one week to integrate the bot with the existing website
 - [X] The user will be able to converse normally with the bot.
+- [X] Connected Github and Eclipese, pushed and commited to Master branch 
 
 
 

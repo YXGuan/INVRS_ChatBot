@@ -2,7 +2,7 @@
 https://www.invrs.com/
 code available in the master branch
 
-### Update01  6th.Apr
+### Update01            6th.Apr
 ![image](https://user-images.githubusercontent.com/55643200/113796250-cd0d2000-971c-11eb-9688-a10f91911d04.png)
 
 - IDE: Eclipese
@@ -11,9 +11,13 @@ code available in the master branch
 - [X] The user will be able to converse normally with the bot.
 - [X] Connected Github and Eclipese, pushed and commited to Master branch 
 
+         
+
 
 
 ### future
+- [ ] build an interface app inside Eclipse
+- [ ] modify the AIML
 - [ ] The bot will let the user ask for a list of major US exchanges and provide the list.
 - [ ] The bot will let the user ask what a "stock split" is and provide a definition.
 

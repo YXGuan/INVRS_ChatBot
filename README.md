@@ -1,6 +1,6 @@
 # INVRS_ChatBot
 https://www.invrs.com/
-code is available in the master branch
+code available in the master branch
 
 ### Update01  6th.Apr
 ![image](https://user-images.githubusercontent.com/55643200/113795921-f9746c80-971b-11eb-8cc5-38bbf6417fd0.png)

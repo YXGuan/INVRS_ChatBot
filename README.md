@@ -8,10 +8,30 @@ code available in the master branch
 - IDE: Eclipese
 - Language: Java,  [AIML 2.0](https://howtodoinjava.com/ai/java-aiml-chatbot-example/)
 - Estimate: 1 week to build Java-back-ended bot, Another one week to integrate the bot with the existing website
+- Reference: https://www.youtube.com/watch?v=XVxYK5AU8H0
 - [X] The user will be able to converse normally with the bot.
 - [X] Connected Github and Eclipese, pushed and commited to Master branch 
 
-         
+
+
+
+
+### Update02            7th.Apr  
+![image](https://user-images.githubusercontent.com/55643200/113903896-772d8c00-979f-11eb-8de2-dd65433cd16f.png)
+
+| Test        | Pass or not | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+- tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today
+- reference: https://www.youtube.com/watch?v=6sRfXN6asyI&list=PLjBRL4AgNs3EXFdRPvj1cuLsOOIq8vfgm&index=4 7 episode AIML tutorial on YT
+- issue: 
+
+
+
+
 
 
 

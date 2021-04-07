@@ -19,10 +19,10 @@ code available in the master branch
 ### Update02            7th.Apr  
 ![image](https://user-images.githubusercontent.com/55643200/113903896-772d8c00-979f-11eb-8de2-dd65433cd16f.png)
 
-| Test        | Pass or not | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Test        | Pass or not     |
+| :---        |          ---: |
+| Header      | Here's this   |
+| Paragraph   | And more      |
 
 
 - tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today

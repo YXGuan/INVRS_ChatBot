@@ -17,6 +17,8 @@ code available in the master branch
 
 
 ### Update02            7th.Apr  
+quick summery: when user type in any keyword include stock split, the robot will answer the definition of it. When user input is stock exchange, the bot will ask user which country, the answer should be either us/US or canada/Canada (case insensitive)
+
 ![image](https://user-images.githubusercontent.com/55643200/113903896-772d8c00-979f-11eb-8de2-dd65433cd16f.png)
 ![image](https://user-images.githubusercontent.com/55643200/113905500-359de080-97a1-11eb-8bbf-ee9856d1c978.png)
 
@@ -28,7 +30,11 @@ code available in the master branch
 | what is stock split | Pass ||
 | stock split | Pass ||
 | tell me litttle bit more about stock splitt| not Pass| (as intended)||
+| stock exchange, US | Pass |  |
 | stock exchange, USA | fail | the bot can not tell the difference between US, usa and the states |
+| where's stock exchange ?, US | Pass |  |
+| stock exchange, the country is us. | fail | user's second answer can only be us or canada |
+
 
 - tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today
 - reference: https://www.youtube.com/watch?v=6sRfXN6asyI&list=PLjBRL4AgNs3EXFdRPvj1cuLsOOIq8vfgm&index=4 7 episode AIML tutorial on YT

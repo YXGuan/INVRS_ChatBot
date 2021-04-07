@@ -18,12 +18,17 @@ code available in the master branch
 
 ### Update02            7th.Apr  
 ![image](https://user-images.githubusercontent.com/55643200/113903896-772d8c00-979f-11eb-8de2-dd65433cd16f.png)
+![image](https://user-images.githubusercontent.com/55643200/113905500-359de080-97a1-11eb-8bbf-ee9856d1c978.png)
 
-| Test        | Pass or not     |
-| :---        |          ---: |
+
+| Test        | Pass or not     | comment
+| :---        |          :---: |
 | what is stock split?      | Pass   |
 | what is stock split ?   | Pass      |
-
+| what is stock split | Pass |
+| stock split | Pass |
+| tell me litttle bit more about stock splitt| not Pass| (as intended)|
+| stock exchange, USA | fail | the bot can not tell the difference between US, usa and the states |
 
 - tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today
 - reference: https://www.youtube.com/watch?v=6sRfXN6asyI&list=PLjBRL4AgNs3EXFdRPvj1cuLsOOIq8vfgm&index=4 7 episode AIML tutorial on YT

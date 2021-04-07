@@ -22,12 +22,12 @@ code available in the master branch
 
 
 | Test        | Pass or not     | comment
-| :---        |          :---: |
-| what is stock split?      | Pass   |
-| what is stock split ?   | Pass      |
-| what is stock split | Pass |
-| stock split | Pass |
-| tell me litttle bit more about stock splitt| not Pass| (as intended)|
+| :---        |          :---: |  ---: |
+| what is stock split?      | Pass   | |
+| what is stock split ?   | Pass      ||
+| what is stock split | Pass ||
+| stock split | Pass ||
+| tell me litttle bit more about stock splitt| not Pass| (as intended)||
 | stock exchange, USA | fail | the bot can not tell the difference between US, usa and the states |
 
 - tool: https://home.pandorabots.com/dash/edit/invrs   --> focus on  AIML today

@@ -44,12 +44,16 @@ quick summery: when user type in any keyword include stock split, the robot will
 
 
 
-
+### Update03            10th.Apr  
+integrated Java and AIML. The robot can now answer both conversational and some stock related questions in the Java console. Previous issue resolved by deleting and re-writing some of the existing code base.
+a quick demo:  https://youtu.be/HipRiUJ-Msk
+- Reference: https://callmom.pandorabots.com/static/reference/#elements/-lt-oob-gt-
+- [X] modify the AIML
 
 
 ### future
 - [ ] build an interface app inside Eclipse
-- [ ] modify the AIML
+
 
 
 
